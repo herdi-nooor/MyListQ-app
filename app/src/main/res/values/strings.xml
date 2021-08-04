@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MylistQ</string>
+    <string name="judul">judul anime/filem</string>
+    <string name="sinopsis">sinopsis cerita</string>
+    <string name="card_vyew">Card View</string>
+    <string name="list_view">List View</string>
+</resources>
